@@ -1,0 +1,43 @@
+body{
+    background:url("background.jpg");
+    background-size:cover;
+    background-position:center;
+}
+
+.heading {
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note {
+    font-size: 15px;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(183, 166, 235);
+    line-height: 3;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+canvas {
+    border:5px solid rgb(248, 198, 247);
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+video {
+    margin-left: 150px;
+}
